@@ -9,9 +9,10 @@
 
 ## Demonstration
 
-Random falling objects demo:
+Random falling objects demo: <br>
 ![falling](https://github.com/suzie13/Speedy_Motion_Detection/assets/39700209/1666f3fb-3dbe-4565-a3e6-0425c7fa8ca6)
+<br>
+<br>
 
-
-Non-falling or non-speedy object demo:
+Non-falling or non-speedy object demo: <br>
 ![nonfalling](https://github.com/suzie13/Speedy_Motion_Detection/assets/39700209/6d049d14-0833-4030-bfbc-85565bb70f40)
